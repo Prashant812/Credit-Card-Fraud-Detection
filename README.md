@@ -33,3 +33,14 @@ I have used two method :-
 * Oversampling
 
 ### Comparison of Model's Performance:
+<p align="center">
+  <img width="700" src="https://user-images.githubusercontent.com/93676625/195557659-df01c984-8a84-4488-aa6e-a63b92685f5e.png" >
+</p>
+
+## Conclusion:
+* OverSampled Neural Network performed better.
+* Performance of model increased after under sampling and over sampling.
+* Confusion Matrix for OverSampled Neural Network :
+<p align="center">
+  <img width="300" src="https://user-images.githubusercontent.com/93676625/195559088-8a9b0bb5-67c4-44de-81bf-9e75c1e7da3d.png" >
+</p>
