@@ -20,7 +20,7 @@ The subsequent 86,442 (30%) transactions make up the test data.
 3. Model Training 
 
 ### Model 
-I have used four models :-
+Four models are used :-
 * Decision Tree Classifier(DTC)
 * Random Forest (RFC)
 * Xtreame Gradient Boosting (XGBC)
